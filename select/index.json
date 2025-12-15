@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Moon River",
+  "base_artist": "手嶌葵",
+  "createdAt": "2025-12-15T22:18:25.036103Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Moon River",
+      "artist": "方大同",
+      "has_synced": false,
+      "path": "select/01_Moon_River_方大同.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Moon River",
+      "artist": "The Innocence Mission",
+      "has_synced": true,
+      "path": "select/02_Moon_River_The_Innocence_Mission.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Moon River",
+      "artist": "Aoi Teshima",
+      "has_synced": true,
+      "path": "select/03_Moon_River_Aoi_Teshima.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Moon River",
+      "artist": "手嶌葵",
+      "has_synced": true,
+      "path": "select/04_Moon_River_手嶌葵.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Moon River",
+      "artist": "Jacob Collier",
+      "has_synced": true,
+      "path": "select/05_Moon_River_Jacob_Collier.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Moon River",
+      "artist": "Quincy Jones",
+      "has_synced": false,
+      "path": "select/06_Moon_River_Quincy_Jones.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Moon River",
+      "artist": "The Puppini Sisters",
+      "has_synced": true,
+      "path": "select/07_Moon_River_The_Puppini_Sisters.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Moon River (From \"Breakfast at Tiffany's\")",
+      "artist": "Lang Lang feat. Madeleine Peyroux, Jerry Douglas, Peter Illenyi & Hungarian Studio Orchestra",
+      "has_synced": false,
+      "path": "select/08_Moon_River_(From__Breakfast_at_Tiffany's_)_Lang_Lang_feat._Madeleine_Peyroux,_Jerry_Douglas,_Peter_Illenyi_&_Hungarian_Stud.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Moon River (from Breakfast at TIffany's)",
+      "artist": "Lang Lang feat․ Madeleine Peyroux, Hungarian Studio Orchestra",
+      "has_synced": false,
+      "path": "select/09_Moon_River_(from_Breakfast_at_TIffany's)_Lang_Lang_feat._Madeleine_Peyroux,_Hungarian_Studio_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Moon River",
+      "artist": "Mark Kozelek",
+      "has_synced": true,
+      "path": "select/10_Moon_River_Mark_Kozelek.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Moon River",
+      "artist": "Rod Stewart",
+      "has_synced": true,
+      "path": "select/11_Moon_River_Rod_Stewart.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Moon River",
+      "artist": "Ben E. King",
+      "has_synced": false,
+      "path": "select/12_Moon_River_Ben_E._King.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Moon River",
+      "artist": "Henry Mancini",
+      "has_synced": false,
+      "path": "select/13_Moon_River_Henry_Mancini.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Moon River",
+      "artist": "Henry Mancini",
+      "has_synced": true,
+      "path": "select/14_Moon_River_Henry_Mancini.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Moon River - Remastered",
+      "artist": "Henry Mancini",
+      "has_synced": false,
+      "path": "select/15_Moon_River_-_Remastered_Henry_Mancini.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Moon River",
+      "artist": "手嶌 葵",
+      "has_synced": false,
+      "path": "select/pl_01_Moon_River_手嶌_葵.txt"
+    }
+  ]
+}
