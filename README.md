@@ -1,0 +1,16 @@
+# 手嶌葵 – Moon River
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:07.89] Moon river, wider than a mile
+[00:21.12] I'm crossing you in style, some day
+[00:30.35] Oh, dream maker, you heart breaker
+[00:41.08] Wherever you're going, I'm going your way
+[01:01.58] 
+[00:51.58] Two drifters off to see the world
+[01:01.90] There's such a lot of world to see
+[01:11.10] We're after the same rainbow's end
+[01:25.46] It's just around the bend, my huckleberry friend
+[01:35.33] Moon river and me
+```
